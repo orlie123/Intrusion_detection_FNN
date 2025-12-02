@@ -32,5 +32,3 @@ pip install -r requirements.txt
 ### Results
 - Achieves high accuracy on test data (details in notebook).
 
-### License
-MIT License
